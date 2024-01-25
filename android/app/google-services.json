@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775240286453",
+    "project_id": "kacpi-k-budget-planner",
+    "storage_bucket": "kacpi-k-budget-planner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775240286453:android:0b4925cd74863879b345bc",
+        "android_client_info": {
+          "package_name": "com.example.budget_planner_racka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWcDyGZ9XjZuNzoH0uvscRNf2SSk3pPBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

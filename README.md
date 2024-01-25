@@ -1,4 +1,4 @@
-# growly
+# Growly - Grow Your money!
 
 A new Flutter project.
 
