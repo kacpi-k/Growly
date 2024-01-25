@@ -1,16 +1,17 @@
 # Growly - Grow Your money!
 
-A new Flutter project.
+Budget management app created using Flutter and Firebase.
 
-## Getting Started
+## Current state of the app
 
-This project is a starting point for a Flutter application.
+**Features**
+- Authentication handled through Firebase Authentication, currently allowing login/register only via email and password
+- Email address confirmation required
+- Password reset functionality available
+- Profile photo and name displayed in app
+- Addition of categorized transactions
+- Display of current balance (for the current month)
+- History of transactions
+- Monthly reports with charts detailing transaction specifics
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application was created for the purpose of completing a course at university. Unfortunately, it still has a few bugs, some shortcomings, and in certain places, quite a significant spaghetti code. However, after the semester ends, I plan to finalize and enrich it with additional features. I also consider releasing it as my first application on the Google Play Store.
